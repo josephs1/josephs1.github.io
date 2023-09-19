@@ -8,4 +8,4 @@
 ## Half Adder Example:
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
 ## D Flip-Flop Example:
-![D Flip-Flop Image](<img width="959" alt="image" src="https://github.com/josephs1/josephs1.github.io/assets/116912697/3a0cdb77-104a-4040-a483-63fa0f72d4d4">)
+![D Flip-Flop Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/D_Flip_Flop_Example.png)
