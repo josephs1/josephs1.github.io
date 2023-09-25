@@ -1,5 +1,6 @@
 # Hello and welcome to:
-  **josephs1.github.io**
+  **CPE-322 - Engineering Design VI**
+All things related to the course CPE-322.
 ## Quote:
 > "I am a Man of Fortune, and I must seek my Fortune" -Henry Avery 1694
 ## Image:
