@@ -20,3 +20,13 @@
 ## These are the terminal images of the commands and their outputs:
 ![Lab3pic1](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic1.png)
 ![Lab3pic2](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Lab3pic2.png)
+![Lab3pic3](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic3.png)
+![Lab3pic4](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic4.png)
+![Lab3pic5](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic5.png)
+![Lab3pic6](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic6.png)
+![Lab3pic7](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic7.png)
+![Lab3pic8](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic8.png)
+![Lab3pic9](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic9.png)
+![Lab3pic10](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic10.png)
+![Lab3pic11](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab3pic11.png)
+
