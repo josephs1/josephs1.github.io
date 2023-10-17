@@ -4,9 +4,9 @@ In this lab, I installed Django, Django REST Framework, Flask & SQLite. I then p
 ## Django project "stevens":
 For this project, I went through the walkthrough on the github using the terminal commands shown below:
 
-![lab4pic1](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic1.png) \n
+![lab4pic1](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic1.png) \
 ![lab4pic2](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic2.png) \
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic3.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic3.png) \
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic4.png)
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic5.png)
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic6.png)
