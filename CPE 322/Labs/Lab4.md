@@ -3,6 +3,7 @@ In this lab, I installed Django, Django REST Framework, Flask & SQLite. I then p
 
 ## Django project "stevens":
 For this project, I went through the walkthrough on the github using the terminal commands shown below:
+
 ![lab4pic1](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic1.png)
 ![lab4pic2](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic2.png)
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic3.png)
@@ -31,7 +32,8 @@ For this project, I went through the walkthrough on the github using the termina
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic26.png)
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic27.png)
 
-I then ran the server. As seen below, I went to the link provided to edit the data that would be displayed on the app.
+I then ran the server. As seen below, I went to the link provided to edit the data that would be displayed on the app:
+
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic28.png)
 
 I then viewed the app and it showed this:
@@ -40,28 +42,34 @@ I then viewed the app and it showed this:
 
 ## Django REST project "mycpu":
 For this project, I went through the walkthrough on the github using the terminal commands shown below:
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
+
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic30.png.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic31.png.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic32.png.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic33.png.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic34.png.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic35.png.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic36.png.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic37.png.png)
+
 I then ran the server using this command:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic38.png.png)
+
 I then viewed the app and it showed this:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic39.png.png)
 
 ## Flask project "hello_world":
 For this project, I first installed flask:
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
+
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic40.png.png)
+
 I then ran the python code:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic41.png.png)
+
 Lastly, I viewed the app:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic42.png.png)
 
