@@ -30,7 +30,7 @@ For this project, I went through the walkthrough on the github using the termina
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic24.png) \
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic25.png) \
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic26.png) \
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic27.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic27.png)
 
 I then ran the server. As seen below, I went to the link provided to edit the data that would be displayed on the app:
 
@@ -50,7 +50,7 @@ For this project, I went through the walkthrough on the github using the termina
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic34.png) \
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic35.png) \
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic36.png) \
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic37.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic37.png)
 
 I then ran the server using this command:
 
