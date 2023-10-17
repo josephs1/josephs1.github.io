@@ -35,6 +35,7 @@ I then ran the server. As seen below, I went to the link provided to edit the da
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic28.png)
 
 I then viewed the app and it showed this:
+
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic29.png)
 
 ## Django REST project "mycpu":
@@ -48,15 +49,19 @@ For this project, I went through the walkthrough on the github using the termina
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
 I then ran the server using this command:
+
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
 I then viewed the app and it showed this:
+
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
 
 ## Flask project "hello_world":
 For this project, I first installed flask:
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
 I then ran the python code:
+
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
 Lastly, I viewed the app:
+
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/Half_Adder_Example.png)
 
