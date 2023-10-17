@@ -7,69 +7,69 @@ For this project, I went through the walkthrough on the github using the termina
 ![lab4pic1](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic1.png) \
 ![lab4pic2](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic2.png) \
 ![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic3.png) \
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic4.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic5.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic6.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic7.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic8.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic9.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic10.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic11.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic12.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic13.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic14.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic15.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic16.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic17.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic18.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic19.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic20.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic21.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic22.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic23.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic24.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic25.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic26.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic27.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic4.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic5.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic6.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic7.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic8.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic9.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic10.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic11.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic12.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic13.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic14.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic15.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic16.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic17.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic18.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic19.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic20.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic21.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic22.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic23.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic24.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic25.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic26.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic27.png) \
 
 I then ran the server. As seen below, I went to the link provided to edit the data that would be displayed on the app:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic28.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic28.png) \
 
 I then viewed the app and it showed this:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic29.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic29.png) \
 
 ## Django REST project "mycpu":
 For this project, I went through the walkthrough on the github using the terminal commands shown below:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic30.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic31.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic32.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic33.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic34.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic35.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic36.png)
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic37.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic30.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic31.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic32.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic33.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic34.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic35.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic36.png) \
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic37.png) \
 
 I then ran the server using this command:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic38.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic38.png) \
 
 I then viewed the app and it showed this:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic39.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic39.png) \
 
 ## Flask project "hello_world":
 For this project, I first installed flask:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic40.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic40.png) \
 
 I then ran the python code:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic41.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic41.png) \
 
 Lastly, I viewed the app:
 
-![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic42.png)
+![Half Adder Image](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab4pic42.png) \
 
