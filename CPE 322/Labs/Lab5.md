@@ -19,7 +19,12 @@ Below are the pictures in the Ubuntu terminal of the processes.
 ![lab5pic](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab5pic1.png) \
 ![lab5pic](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab5pic2.png)
 
-## The Rest:
+## Testing Python File Server Examples including:
+1. client.py
+2. sub.py
+3. sub-multiple.py
+4. subcpu.py
+   - Had to edit a file and change hostname from "Raspberry Pi" to "JS_host".
 
 ![lab5pic](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab5pic3.png) \
 ![lab5pic](https://github.com/josephs1/josephs1.github.io/blob/main/CPE%20322/Labs/Assets/lab5pic4.png) \
