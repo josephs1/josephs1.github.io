@@ -1,39 +1,108 @@
 @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
 header {
+  border-radius: 20px;
+  border-style: none;
+  background-color: rgb(21, 16, 75);
+  margin-left: 50px;
+  margin-right: 50px;
+  transition: margin 0.5s, border-radius 0.5s;
+  transition-timing-function: ease;
   ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-left: 6em;
+    padding-top: 2px;
+    padding-right: 0;
+    padding-bottom: 2px;
     overflow: hidden;
-    background-color: #640909;
+    transition: padding-left 0.5s;
   }
   li {
     float: left;
   }
   li a {
     display: block;
+    border-style: none;
+    border-radius: 12px;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   li a:hover {
-    background-color: #ad3c3c;
+    background-color: rgb(51, 76, 176);
+  }
+}
+header:hover {
+  border-radius: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  ul {
+    padding-left: 9em;
   }
 }
 body {
   margin: 0 auto;
   max-width: 100em;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-  color: #555;
+  color: rgb(42, 42, 42);
+  background-color: beige;
 }
-.main, footer {
+.main {
   margin: 0 auto;
+  padding-left: 0 auto;
+  padding-top: 0 auto;
+  padding-right: 0 auto;
+  padding-bottom: 1em;
   max-width: 60em;
   line-height: 1.5;
+  min-height: 500px;
+  p {
+    max-width:620px;
+    color: rgb(65, 65, 57);
+  }
+  img {
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 3px;
+    border-color: rgb(146, 146, 135);
+    transition: border-color 0.5s;
+    transition-timing-function: ease;
+  }
+  img:hover{
+    border-color: rgb(21, 16, 75);
+  }
 }
-h1 {
-  color: #1b1b1b;
+footer {
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 2em;
+  padding-bottom: 3em;
+  line-height: 1.5;
+  min-height: 110px;
+  background-color: rgb(188, 188, 172);
+  * {
+    margin: 0 auto;
+    padding: 0 auto;
+    max-width: 60em;
+  }
+  h3 {
+    color: rgb(65, 65, 57);
+  }
+  li {
+    color: rgb(65, 65, 57);
+  }
+}
+h1, h2 {
+  color: rgb(21, 16, 75);
+}
+h6 {
+  color: rgb(42, 42, 42);
+  font-family: "Lucida Handwriting";
+  font-size: 11px;
 }
 footer a:hover {
   color: rgb(58, 180, 217);
