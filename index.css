@@ -106,6 +106,9 @@ footer {
 h1, h2 {
   color: rgb(21, 16, 75);
 }
+h4 {
+  color: black;
+}
 h6 {
   color: black;
   font-family: "Times New Roman", "Lucida Handwriting";
